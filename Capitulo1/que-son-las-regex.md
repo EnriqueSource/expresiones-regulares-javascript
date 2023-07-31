@@ -19,4 +19,5 @@ Aunque el ejemplo anterior pueda que te sorprenda poco, cuando unimos _regex_ + 
 - filtros
 - ...
 
-Así que, para facilitar las cosas, piensa en los regex como una fórmula que nos permite manipular textos de forma "menos compleja" que utilizando otros métodos.
+Así que, para facilitar las cosas, piensa en los regex como una fórmula que nos permite manipular textos de forma "menos compleja" que utilizando otros métodos. Aunque como ya hemos comentado, cuando unimos _regex_ + _un lenguaje de programación_ se puede hacer mucho mas que simplemente comparar _strings_.
+
